@@ -58,7 +58,7 @@ TEST DES FONCTIONNALITES :
 
 1. Ajouter une classe : choisir l'option 1 dans le menu puis la touche entrer
 Nommer la nouvelle classe
-Pour mon exemple la classe creer est la Terminale D
+Pour mon exemple la classe creer est la classe License Pro
 ![image](https://github.com/user-attachments/assets/22845be6-8dce-4100-912f-97789be2a435)
 
 2. Ajouter un étudiant : choisir l'option 2
