@@ -58,39 +58,50 @@ TEST DES FONCTIONNALITES :
 
 1. Ajouter une classe : choisir l'option 1 dans le menu puis la touche entrer
 Nommer la nouvelle classe
-Pour mon exemple la classe creer est la classe License Pro
-![image](https://github.com/user-attachments/assets/22845be6-8dce-4100-912f-97789be2a435)
+Pour mon exemple la classe creer est la classe Licence Pro
+
+![image](https://github.com/user-attachments/assets/0293c006-4764-462b-9da0-b62e5492c37e)
+
 
 2. Ajouter un étudiant : choisir l'option 2
 Nous ajouterons 2 etudiants
 Esmel Memel Stephane
 Ehouman Landry
 
-PS: Afin d'etre coherant l'application vous demandera de choisir la classe auquelle vous souhaiter inclure les etudiants que vous aller créer d'ou la classe de Terminale D
-![image](https://github.com/user-attachments/assets/36fc1814-0110-4eba-9b5f-877007348596)
+PS: Afin d'etre coherant l'application vous demandera de choisir la classe auquelle vous souhaiter inclure les etudiants que vous aller créer d'ou la classe Licence Pro
+![image](https://github.com/user-attachments/assets/096f5c11-b165-40ee-b0a6-2cedcd8b68ff)
 
 Nous allons ensuite lister la classe avec les etudiants en choisissant l'option 5
 
-![image](https://github.com/user-attachments/assets/62ce59fa-a762-4427-9278-dd77469bfe62)
-
+![image](https://github.com/user-attachments/assets/78c372e5-8ea6-4fa4-abe4-42ac0036fe67)
 
 3. Ajouter une matière : choisir l'option 3 dans le menu puis la touche entrer
 Entrer le nom de la matiere puis la classe auquelle sera affecté la matiere
 
-![image](https://github.com/user-attachments/assets/46eebba9-e979-472d-a2ba-5dc5f434e401)
+![image](https://github.com/user-attachments/assets/1ea850f0-41f6-4046-9632-bb2500ecbe21)
+
 Nous avons creer les matieres 
-Mathematique 
+JAVA
 Algorithme
 
 
 4. Enregistrer des notes : choisir l'option 4 dans le menu puis la touche entrer
 Nous allons affecter des notes a chaque etudiant pour chaque matieres
 
-![image](https://github.com/user-attachments/assets/817ba7fe-03f9-4ee8-9f14-4e5aeff76b21)
+![image](https://github.com/user-attachments/assets/d7374d07-6cfd-41bf-8742-a3bbba458e3b)
 
 
 6. Calculer les moyennes : choisir l'option 6 dans le menu puis la touche entrer
 
+![image](https://github.com/user-attachments/assets/5092b6eb-c9be-4327-8bf8-72f49e9f6e62)
+
+7. Établir le classement :  choisir l'option 7 dans le menu puis la touche entrer
+
+![image](https://github.com/user-attachments/assets/54fce164-df8c-463b-8f9b-144f8619bd53)
+
+![image](https://github.com/user-attachments/assets/cd8a077c-3aac-44cc-8de9-417ae9a04220)
+
+8. Générer les Bulletins : choisir l'option 8 dans le menu puis la touche entrer
 
 
 
