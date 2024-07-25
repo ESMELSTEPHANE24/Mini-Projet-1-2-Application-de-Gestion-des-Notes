@@ -116,6 +116,17 @@ D:\COURS-PROGRAMMATION-JAVA\mini-projet1.0\GestionsDesNotesV1
 ![image](https://github.com/user-attachments/assets/2f01eb37-5303-41db-a4c0-80fb23e6bab0)
 
 
+TEST sur ECLIPSE : 
+
+![image](https://github.com/user-attachments/assets/c3107f76-9cf3-43e2-8265-02896411e02b)
+
+![image](https://github.com/user-attachments/assets/0aa394b1-8eb1-4905-81c3-c966affc3155)
+
+![image](https://github.com/user-attachments/assets/e3d60075-490f-4ccd-9dc4-c0b693a4bacf)
+
+
+
+
 
 Auteur
 
