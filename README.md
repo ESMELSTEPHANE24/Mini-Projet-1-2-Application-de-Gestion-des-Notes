@@ -112,6 +112,10 @@ D:\COURS-PROGRAMMATION-JAVA\mini-projet1.0\GestionsDesNotesV1
 
 ![image](https://github.com/user-attachments/assets/ea0dbc5b-2734-4004-bbf6-99c296bc2057)
 
+![image](https://github.com/user-attachments/assets/a9944786-b052-48c3-8fe2-967cb4ec64ea)
+![image](https://github.com/user-attachments/assets/2f01eb37-5303-41db-a4c0-80fb23e6bab0)
+
+
 
 Auteur
 
