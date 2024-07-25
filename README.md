@@ -103,6 +103,14 @@ Nous allons affecter des notes a chaque etudiant pour chaque matieres
 
 8. Générer les Bulletins : choisir l'option 8 dans le menu puis la touche entrer
 
+![image](https://github.com/user-attachments/assets/1903f8ce-0a2b-4d49-a8de-003a49bb3aa8)
+
+PS: comme vous pouvez le constater les bulletins de chaque etudiants est généré dans le repertoire 
+contenant le fichier JAR.
+Pour notre test mon repertoire est le suivant : 
+D:\COURS-PROGRAMMATION-JAVA\mini-projet1.0\GestionsDesNotesV1
+
+![image](https://github.com/user-attachments/assets/ea0dbc5b-2734-4004-bbf6-99c296bc2057)
 
 
 Auteur
