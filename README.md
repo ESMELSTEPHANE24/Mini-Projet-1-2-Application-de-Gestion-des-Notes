@@ -126,11 +126,7 @@ TEST sur ECLIPSE :
 
 
 
-
-
-Auteur
-
-ESMEL MEMEL STEPHANE
+Fonctionnalités ajoutées :
 
 1.Authentifiction
 2.Génération de Bulletin des Etudiants
